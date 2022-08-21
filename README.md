@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Parvez Rohman</h1>
 <h3 align="center">Software Developer</h3>
-<img align="right" alt="coding" src="https://c.tenor.com/FUv4qr5HaMsAAAAd/work-working.gif" alt="parvezfci" /> 
+<img align="right" width="300" height="220" alt="coding" src="https://c.tenor.com/FUv4qr5HaMsAAAAd/work-working.gif" alt="parvezfci" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvezfci&label=Profile%20views&color=0e75b6&style=flat" alt="parvezfci" /> </p>
 
 - 💬 Ask me about **Php laravel html css bootstrap**
